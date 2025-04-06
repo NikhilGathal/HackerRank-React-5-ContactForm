@@ -1,2 +1,2 @@
-# HackerRank React Contact Form
+# React Contact Form
 
